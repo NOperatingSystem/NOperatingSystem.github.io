@@ -18,6 +18,8 @@ The wiki has info about the built-in commands, features, and more. That should b
 ### Supported Architectures
 We currently only support the NASM x86 real-mode instruction set, if you know how to use protected 32-bit mode, ARM asm, or something else, reach out to us through [Issues](https://github.com/NOperatingSystem/NOperatingSystem/issues) or [Discussions](https://github.com/NOperatingSystem/NOperatingSystem/discussions) so you can help and contribute.
 
+### [Discord](https://discord.gg/KaQJ6pqrPF)
+We have a Discord server [(https://discord.gg/KaQJ6pqrPF)](https://discord.gg/KaQJ6pqrPF) where you can discuss everything about NoOS and more. You can also have fun toying with the [Translation Bot](http://smoogle.gg).
 
-
+Have fun and enjoy!
 *Made by the N Operating System team*
