@@ -1,4 +1,4 @@
-![N Operating System Logo](https://raw.githubusercontent.com/NoOperatingSys/Assets/master/Pictures/logo.png)
+![NoOS v2.0.0 (tm) by moltncore and mugman](https://raw.githubusercontent.com/NoOperatingSys/Assets/master/Pictures/logo.png)
 ### Welcome to the NoOS (No Operating System) website!
 Here you'll find all of the information you'll need.
 
@@ -7,7 +7,7 @@ Here you'll find all of the information you'll need.
 ### Projects
 These are the projects that we are currently working on:
 1. The No Operating System (NoOS)
-2. This website
+2. [This Website](https://nooperatingsys.github.io/)
 
 ### [Wiki](https://github.com/NoOperatingSys/NoOperatingSystem/wiki)
 The wiki has info about the built-in commands, features, and more. That should be the main place for help.
